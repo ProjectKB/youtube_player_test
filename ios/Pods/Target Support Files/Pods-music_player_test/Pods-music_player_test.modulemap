@@ -1,6 +1,0 @@
-module Pods_music_player_test {
-  umbrella header "Pods-music_player_test-umbrella.h"
-
-  export *
-  module * { export * }
-}
