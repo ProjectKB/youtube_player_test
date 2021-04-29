@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/music_player_test.iml" filepath="$PROJECT_DIR$/.idea/modules/music_player_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YouTubeAndroidPlayerApi/music_player_test.YouTubeAndroidPlayerApi.iml" filepath="$PROJECT_DIR$/.idea/modules/YouTubeAndroidPlayerApi/music_player_test.YouTubeAndroidPlayerApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/music_player_test.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/music_player_test.app.iml" />
+    </modules>
+  </component>
+</project>

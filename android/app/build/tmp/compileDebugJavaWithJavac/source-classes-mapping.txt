@@ -1,0 +1,14 @@
+com/music_player_test/BuildConfig.java
+ com.music_player_test.BuildConfig
+com/music_player_test/MainActivity.java
+ com.music_player_test.MainActivity
+com/music_player_test/ReactNativeFlipper.java
+ com.music_player_test.ReactNativeFlipper
+ com.music_player_test.ReactNativeFlipper$1
+ com.music_player_test.ReactNativeFlipper$2
+ com.music_player_test.ReactNativeFlipper$2$1
+com/music_player_test/MainApplication.java
+ com.music_player_test.MainApplication
+ com.music_player_test.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
